@@ -1,11 +1,9 @@
-#  My name is  *Harry Tran*.
-## Hello there! I hope you are having a wondeful day! 👋
+#  My name is  *Harry Tran* 👋.
+## Hello there! I hope you are having a wondeful day! 
 
-- 🌱 I’m currently learning ... React.
-- 👯 I’m looking to collaborate on ...anyones open source project.
-- ⚡ Fun fact: ... Jesus loves you.
-
-<!-- ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydthomas&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydthomas&layout=compact)](https://github.com/jeremydthomas/github-readme-stats) -->
+- 💻 I'm working as a Software Developer at [WorkingMouse](http://workingmouse.com.au/) in 🇦🇺
+- 🌱 I’m currently working on [Greenstand](https://github.com/Greenstand) open source projects in my free time.
+- 👯 I’m looking to collaborate on any open source projects that I am interested.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
@@ -17,7 +15,6 @@
 <!--END_SECTION:activity-->
 
 <!--
-**jeremydthomas/jeremydthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
