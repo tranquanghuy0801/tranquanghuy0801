@@ -7,11 +7,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7293](https://github.com/visgl/deck.gl/issues/7293) in [visgl/deck.gl](https://github.com/visgl/deck.gl)
-2. 🗣 Commented on [#791](https://github.com/Greenstand/treetracker-web-map-client/issues/791) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
-3. 💪 Opened PR [#1004](https://github.com/Greenstand/treetracker-web-map-client/pull/1004) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
-4. 🗣 Commented on [#791](https://github.com/Greenstand/treetracker-web-map-client/issues/791) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
-5. 💪 Opened PR [#1001](https://github.com/Greenstand/treetracker-web-map-client/pull/1001) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+1. 🎉 Merged PR [#5](https://github.com/tranquanghuy0801/tweet_your_sentiment/pull/5) in [tranquanghuy0801/tweet_your_sentiment](https://github.com/tranquanghuy0801/tweet_your_sentiment)
+2. 🎉 Merged PR [#4](https://github.com/tranquanghuy0801/tweet_your_sentiment/pull/4) in [tranquanghuy0801/tweet_your_sentiment](https://github.com/tranquanghuy0801/tweet_your_sentiment)
+3. 🎉 Merged PR [#3](https://github.com/tranquanghuy0801/tweet_your_sentiment/pull/3) in [tranquanghuy0801/tweet_your_sentiment](https://github.com/tranquanghuy0801/tweet_your_sentiment)
+4. ❗️ Opened issue [#7293](https://github.com/visgl/deck.gl/issues/7293) in [visgl/deck.gl](https://github.com/visgl/deck.gl)
+5. 🗣 Commented on [#791](https://github.com/Greenstand/treetracker-web-map-client/issues/791) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
 <!--END_SECTION:activity-->
 
 <!--
