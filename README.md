@@ -7,11 +7,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#868](https://github.com/Greenstand/treetracker-admin-client/issues/868) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
-2. 💪 Opened PR [#867](https://github.com/Greenstand/treetracker-admin-client/pull/867) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
-3. 🗣 Commented on [#862](https://github.com/Greenstand/treetracker-admin-client/issues/862) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
-4. 💪 Opened PR [#864](https://github.com/Greenstand/treetracker-admin-client/pull/864) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
-5. ❗️ Opened issue [#396](https://github.com/vasturiano/react-force-graph/issues/396) in [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)
+1. ❗️ Closed issue [#396](https://github.com/vasturiano/react-force-graph/issues/396) in [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)
+2. 🗣 Commented on [#396](https://github.com/vasturiano/react-force-graph/issues/396) in [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)
+3. ❗️ Opened issue [#868](https://github.com/Greenstand/treetracker-admin-client/issues/868) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
+4. 💪 Opened PR [#867](https://github.com/Greenstand/treetracker-admin-client/pull/867) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
+5. 🗣 Commented on [#862](https://github.com/Greenstand/treetracker-admin-client/issues/862) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
 <!--END_SECTION:activity-->
 
 <!--
