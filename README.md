@@ -7,9 +7,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#198](https://github.com/motion-canvas/motion-canvas/pull/198) in [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
-2. ❗️ Opened issue [#19](https://github.com/viet-aus-it/meetup-planning/issues/19) in [viet-aus-it/meetup-planning](https://github.com/viet-aus-it/meetup-planning)
-3. ❗️ Closed issue [#396](https://github.com/vasturiano/react-force-graph/issues/396) in [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)
+1. 🗣 Commented on [#2251](https://github.com/lapce/lapce/issues/2251) in [lapce/lapce](https://github.com/lapce/lapce)
+2. ❗️ Opened issue [#2251](https://github.com/lapce/lapce/issues/2251) in [lapce/lapce](https://github.com/lapce/lapce)
+3. 💪 Opened PR [#198](https://github.com/motion-canvas/motion-canvas/pull/198) in [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
 4. 🗣 Commented on [#396](https://github.com/vasturiano/react-force-graph/issues/396) in [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph)
 5. ❗️ Opened issue [#868](https://github.com/Greenstand/treetracker-admin-client/issues/868) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
 <!--END_SECTION:activity-->
