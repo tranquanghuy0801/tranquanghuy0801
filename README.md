@@ -7,11 +7,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1074](https://github.com/Greenstand/treetracker-admin-client/issues/1074) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
-2. 💪 Opened PR [#1234](https://github.com/react-navigation/react-navigation.github.io/pull/1234) in [react-navigation/react-navigation.github.io](https://github.com/react-navigation/react-navigation.github.io)
-3. 🗣 Commented on [#3375](https://github.com/wix/Detox/issues/3375) in [wix/Detox](https://github.com/wix/Detox)
-4. ❗️ Opened issue [#4016](https://github.com/wix/Detox/issues/4016) in [wix/Detox](https://github.com/wix/Detox)
-5. ❗️ Opened issue [#43](https://github.com/aaronhayes/react-use-hubspot-form/issues/43) in [aaronhayes/react-use-hubspot-form](https://github.com/aaronhayes/react-use-hubspot-form)
+1. 🗣 Commented on [#3762](https://github.com/wix/Detox/issues/3762) in [wix/Detox](https://github.com/wix/Detox)
+2. 🗣 Commented on [#1074](https://github.com/Greenstand/treetracker-admin-client/issues/1074) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
+3. 💪 Opened PR [#1234](https://github.com/react-navigation/react-navigation.github.io/pull/1234) in [react-navigation/react-navigation.github.io](https://github.com/react-navigation/react-navigation.github.io)
+4. 🗣 Commented on [#3375](https://github.com/wix/Detox/issues/3375) in [wix/Detox](https://github.com/wix/Detox)
+5. ❗️ Opened issue [#4016](https://github.com/wix/Detox/issues/4016) in [wix/Detox](https://github.com/wix/Detox)
 <!--END_SECTION:activity-->
 
 <!--
