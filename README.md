@@ -7,11 +7,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3165](https://github.com/immich-app/immich/issues/3165) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🗣 Commented on [#3191](https://github.com/wix/Detox/issues/3191) in [wix/Detox](https://github.com/wix/Detox)
-3. ❗ Opened issue [#9](https://github.com/dylantientcheu/nbacli/issues/9) in [dylantientcheu/nbacli](https://github.com/dylantientcheu/nbacli)
-4. 🗣 Commented on [#3762](https://github.com/wix/Detox/issues/3762) in [wix/Detox](https://github.com/wix/Detox)
-5. 🗣 Commented on [#1074](https://github.com/Greenstand/treetracker-admin-client/issues/1074) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
+1. 🗣 Commented on [#3238](https://github.com/immich-app/immich/issues/3238) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 💪 Opened PR [#3238](https://github.com/immich-app/immich/pull/3238) in [immich-app/immich](https://github.com/immich-app/immich)
+3. 🗣 Commented on [#3165](https://github.com/immich-app/immich/issues/3165) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 🗣 Commented on [#3191](https://github.com/wix/Detox/issues/3191) in [wix/Detox](https://github.com/wix/Detox)
+5. ❗ Opened issue [#9](https://github.com/dylantientcheu/nbacli/issues/9) in [dylantientcheu/nbacli](https://github.com/dylantientcheu/nbacli)
 <!--END_SECTION:activity-->
 
 <!--
