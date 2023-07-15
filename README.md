@@ -2,8 +2,7 @@
 ## Hello there! I hope you are having a wondeful day! 
 
 - 💻 I'm working as a Software Engineer at [Max Kelsen](https://maxkelsen.com/) in Brisbane 🇦🇺
-- 🌱 I’m currently working on [Greenstand](https://github.com/Greenstand) open source projects in my free time.
-- 👯 I’m looking to collaborate on any open source projects that I am interested.
+- 👨🏻‍💻 I love contributing to some open source projects in my free time.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
