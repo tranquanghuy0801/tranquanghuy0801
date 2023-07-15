@@ -6,11 +6,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3277](https://github.com/immich-app/immich/pull/3277) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🗣 Commented on [#3238](https://github.com/immich-app/immich/pull/3238#issuecomment-1634337843) in [immich-app/immich](https://github.com/immich-app/immich)
-3. 🗣 Commented on [#3238](https://github.com/immich-app/immich/pull/3238#issuecomment-1634309689) in [immich-app/immich](https://github.com/immich-app/immich)
-4. 💪 Opened PR [#3238](https://github.com/immich-app/immich/pull/3238) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🗣 Commented on [#3165](https://github.com/immich-app/immich/issues/3165#issuecomment-1634219052) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🎉 Merged PR [#1](https://github.com/tranquanghuy0801/tldr-news/pull/1) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+2. 🎉 Merged PR [#3](https://github.com/tranquanghuy0801/tldr-news/pull/3) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+3. ❗ Opened issue [#3280](https://github.com/immich-app/immich/issues/3280) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 🗣 Commented on [#2989](https://github.com/immich-app/immich/issues/2989#issuecomment-1636656142) in [immich-app/immich](https://github.com/immich-app/immich)
+5. 💪 Opened PR [#3277](https://github.com/immich-app/immich/pull/3277) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 <!--
