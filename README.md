@@ -6,11 +6,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3392](https://github.com/immich-app/immich/issues/3392) in [immich-app/immich](https://github.com/immich-app/immich)
-2. ❗ Opened issue [#3392](https://github.com/immich-app/immich/issues/3392) in [immich-app/immich](https://github.com/immich-app/immich)
-3. 🗣 Commented on [#1798](https://github.com/usememos/memos/issues/1798#issuecomment-1646599661) in [usememos/memos](https://github.com/usememos/memos)
-4. 🗣 Commented on [#1798](https://github.com/usememos/memos/issues/1798#issuecomment-1646592437) in [usememos/memos](https://github.com/usememos/memos)
-5. 🎉 Merged PR [#4](https://github.com/tranquanghuy0801/tldr-news/pull/4) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+1. 💪 Opened PR [#2025](https://github.com/usememos/memos/pull/2025) in [usememos/memos](https://github.com/usememos/memos)
+2. 🔒 Closed issue [#3392](https://github.com/immich-app/immich/issues/3392) in [immich-app/immich](https://github.com/immich-app/immich)
+3. ❗ Opened issue [#3392](https://github.com/immich-app/immich/issues/3392) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 🗣 Commented on [#1798](https://github.com/usememos/memos/issues/1798#issuecomment-1646599661) in [usememos/memos](https://github.com/usememos/memos)
+5. 🗣 Commented on [#1798](https://github.com/usememos/memos/issues/1798#issuecomment-1646592437) in [usememos/memos](https://github.com/usememos/memos)
 <!--END_SECTION:activity-->
 
 <!--
