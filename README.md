@@ -6,11 +6,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2027](https://github.com/usememos/memos/issues/2027#issuecomment-1648792461) in [usememos/memos](https://github.com/usememos/memos)
-2. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1647298200) in [usememos/memos](https://github.com/usememos/memos)
-3. 🗣 Commented on [#2012](https://github.com/usememos/memos/issues/2012#issuecomment-1647273707) in [usememos/memos](https://github.com/usememos/memos)
-4. 💪 Opened PR [#2025](https://github.com/usememos/memos/pull/2025) in [usememos/memos](https://github.com/usememos/memos)
-5. 🔒 Closed issue [#3392](https://github.com/immich-app/immich/issues/3392) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1649027474) in [usememos/memos](https://github.com/usememos/memos)
+2. 🗣 Commented on [#2027](https://github.com/usememos/memos/issues/2027#issuecomment-1648792461) in [usememos/memos](https://github.com/usememos/memos)
+3. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1647298200) in [usememos/memos](https://github.com/usememos/memos)
+4. 🗣 Commented on [#2012](https://github.com/usememos/memos/issues/2012#issuecomment-1647273707) in [usememos/memos](https://github.com/usememos/memos)
+5. 💪 Opened PR [#2025](https://github.com/usememos/memos/pull/2025) in [usememos/memos](https://github.com/usememos/memos)
 <!--END_SECTION:activity-->
 
 <!--
