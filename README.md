@@ -6,11 +6,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1652833262) in [usememos/memos](https://github.com/usememos/memos)
-2. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1652678896) in [usememos/memos](https://github.com/usememos/memos)
-3. 🗣 Commented on [#1858](https://github.com/usememos/memos/issues/1858#issuecomment-1651402020) in [usememos/memos](https://github.com/usememos/memos)
-4. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1650932007) in [usememos/memos](https://github.com/usememos/memos)
-5. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1650920441) in [usememos/memos](https://github.com/usememos/memos)
+1. 🗣 Commented on [#3280](https://github.com/immich-app/immich/issues/3280#issuecomment-1663314759) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1652833262) in [usememos/memos](https://github.com/usememos/memos)
+3. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1652678896) in [usememos/memos](https://github.com/usememos/memos)
+4. 🗣 Commented on [#1858](https://github.com/usememos/memos/issues/1858#issuecomment-1651402020) in [usememos/memos](https://github.com/usememos/memos)
+5. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1650932007) in [usememos/memos](https://github.com/usememos/memos)
 <!--END_SECTION:activity-->
 
 <!--
