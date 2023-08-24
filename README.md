@@ -1,7 +1,7 @@
 #  My name is  *Harry Tran* 👋.
 ## Hello there! I hope you are having a wondeful day! 
 
-- 💻 I'm working as a Software Engineer at [Bain](https://www.bain.com) in Brisbane 🇦🇺
+- 💻 I'm working as a Software Engineer at [Bain & Company](https://www.bain.com) in Brisbane 🇦🇺
 - 👨🏻‍💻 I love contributing to some open source projects in my free time.
 
 ### :zap: Recent Activity
