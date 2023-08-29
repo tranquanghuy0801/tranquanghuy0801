@@ -6,11 +6,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3280](https://github.com/immich-app/immich/issues/3280#issuecomment-1663314759) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1652833262) in [usememos/memos](https://github.com/usememos/memos)
-3. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1652678896) in [usememos/memos](https://github.com/usememos/memos)
-4. 🗣 Commented on [#1858](https://github.com/usememos/memos/issues/1858#issuecomment-1651402020) in [usememos/memos](https://github.com/usememos/memos)
-5. 🗣 Commented on [#2024](https://github.com/usememos/memos/issues/2024#issuecomment-1650932007) in [usememos/memos](https://github.com/usememos/memos)
+1. 🎉 Merged PR [#8](https://github.com/tranquanghuy0801/tldr-news/pull/8) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+2. 🎉 Merged PR [#5](https://github.com/tranquanghuy0801/tldr-news/pull/5) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+3. 🎉 Merged PR [#6](https://github.com/tranquanghuy0801/tldr-news/pull/6) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+4. 🎉 Merged PR [#7](https://github.com/tranquanghuy0801/tldr-news/pull/7) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+5. 🗣 Commented on [#3280](https://github.com/immich-app/immich/issues/3280#issuecomment-1663314759) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 <!--
