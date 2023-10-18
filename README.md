@@ -6,11 +6,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/tranquanghuy0801/tldr-news/pull/9) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-2. 🎉 Merged PR [#10](https://github.com/tranquanghuy0801/tldr-news/pull/10) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-3. 🎉 Merged PR [#11](https://github.com/tranquanghuy0801/tldr-news/pull/11) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-4. 🎉 Merged PR [#8](https://github.com/tranquanghuy0801/tldr-news/pull/8) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-5. 🎉 Merged PR [#5](https://github.com/tranquanghuy0801/tldr-news/pull/5) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+1. 🎉 Merged PR [#13](https://github.com/tranquanghuy0801/tldr-news/pull/13) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+2. 🎉 Merged PR [#14](https://github.com/tranquanghuy0801/tldr-news/pull/14) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+3. 🎉 Merged PR [#9](https://github.com/tranquanghuy0801/tldr-news/pull/9) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+4. 🎉 Merged PR [#10](https://github.com/tranquanghuy0801/tldr-news/pull/10) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+5. 🎉 Merged PR [#11](https://github.com/tranquanghuy0801/tldr-news/pull/11) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
 <!--END_SECTION:activity-->
 
 <!--
