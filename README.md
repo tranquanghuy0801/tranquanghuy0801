@@ -6,9 +6,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/tranquanghuy0801/tldr-news/pull/16) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-2. 🎉 Merged PR [#15](https://github.com/tranquanghuy0801/tldr-news/pull/15) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-3. 🗣 Commented on [#8](https://github.com/ByteByteGoHq/system-design-101/issues/8#issuecomment-1770797514) in [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+1. 🎉 Merged PR [#17](https://github.com/tranquanghuy0801/tldr-news/pull/17) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+2. 🎉 Merged PR [#16](https://github.com/tranquanghuy0801/tldr-news/pull/16) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+3. 🎉 Merged PR [#15](https://github.com/tranquanghuy0801/tldr-news/pull/15) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
 4. 🎉 Merged PR [#13](https://github.com/tranquanghuy0801/tldr-news/pull/13) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
 5. 🎉 Merged PR [#14](https://github.com/tranquanghuy0801/tldr-news/pull/14) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
 <!--END_SECTION:activity-->
