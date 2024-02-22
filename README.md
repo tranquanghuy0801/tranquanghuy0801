@@ -6,11 +6,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1185](https://github.com/run-llama/llama_index/issues/1185#issuecomment-1908024376) in [run-llama/llama_index](https://github.com/run-llama/llama_index)
-2. 🎉 Merged PR [#17](https://github.com/tranquanghuy0801/tldr-news/pull/17) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-3. 🎉 Merged PR [#16](https://github.com/tranquanghuy0801/tldr-news/pull/16) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-4. 🎉 Merged PR [#15](https://github.com/tranquanghuy0801/tldr-news/pull/15) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
-5. 🎉 Merged PR [#14](https://github.com/tranquanghuy0801/tldr-news/pull/14) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+1. 🎉 Merged PR [#20](https://github.com/tranquanghuy0801/tldr-news/pull/20) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+2. 🗣 Commented on [#1185](https://github.com/run-llama/llama_index/issues/1185#issuecomment-1908024376) in [run-llama/llama_index](https://github.com/run-llama/llama_index)
+3. 🎉 Merged PR [#17](https://github.com/tranquanghuy0801/tldr-news/pull/17) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+4. 🎉 Merged PR [#16](https://github.com/tranquanghuy0801/tldr-news/pull/16) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
+5. 🎉 Merged PR [#15](https://github.com/tranquanghuy0801/tldr-news/pull/15) in [tranquanghuy0801/tldr-news](https://github.com/tranquanghuy0801/tldr-news)
 <!--END_SECTION:activity-->
 
 <!--
